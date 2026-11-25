@@ -1,1 +1,35 @@
+#Different ways of using print statements
+
+print("name:",  "Alice",    "Age",  "30",)
+
+print("I like basketball",  "I love coding",   "I love thinking",)
+
+print("making movies rocks", "I also love dogs",  "I love making movies too",)
+
+print("name:", "Brother", "be better", "be strong",)
+
+print("I love my wife:",    "she makes good cookies",   "She looks good",)
+
+print("making movies rocks", "I wish more people knew how to make movies", "movies are not that good now",)
+
+print("i am tall:", "i love sports", "I enjoy being alone",)
+
+print("making money is cool:", "But when you get the money:", "a family is better",)
+
+
+print("loving you is great but i wish we can be friends", "my best friends rock")
+
+print("i miss my mom","i wihs she was here:", "Life is amazing",)
+
+print("i am running out of ideas:", "But i love to code","Its pretty cool",)
+
+print("i understand debugging now","debugging is awesome:", "I made lots of mistakes",)
+
+print("okay this is my last print function:", "no seriously im done","like right now:","nooo")
+
+greeting    = 'thanks for reading'
+
+print(greeting)
+
+print('hope you visit my page more :)')
 
