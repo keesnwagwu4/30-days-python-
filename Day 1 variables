@@ -1,0 +1,10 @@
+#Introductory paragraph
+
+intro= "hello git!"
+
+age  =  22
+
+residence =  OH
+
+print(f{intro} {age) years old" , "I live at {residence}") 
+
