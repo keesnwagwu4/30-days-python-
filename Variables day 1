@@ -1,0 +1,9 @@
+Print = 'hello world'
+
+  name= 'John Doe'
+
+  age    =  25
+
+  school_distance  =    9.5
+
+ 10  >  9.5
