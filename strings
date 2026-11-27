@@ -1,0 +1,9 @@
+print('I love juice:',"I\'m appalled by the amount of juice i drink")
+
+print(""""Imagine being 6 years old but not being a superhero""")
+
+print('coding rocks i want to learn more\n I want to learn more')
+
+print('without love', 'we are nothing:', 'i wish\teveryone nothing but the best')
+
+print('apparently this is how you do this\\do\\this')
